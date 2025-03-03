@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nosso Dia</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="timer">
+            <img src="https://im.ge/i/tempImagetp5lly.pMqpWz" alt="Foto do casal" class="foto-casal">
+            <h1>Juntos</h1>
+            <div id="countdown"></div>
+            <p>Eu te amo muito meu amor, é muito bom poder te amar</p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
